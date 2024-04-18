@@ -90,7 +90,7 @@ sms-activate.bot находится на переднем крае цифров�
 - **Узнайте больше**: [PrivatePhone.me](https://privatephone.me)
 - **Активация СМС**: [SMS Activation Space](https://sms-activate.space/)
 - **Полезные статьи**: [Профиль на Hackernoon](https://hackernoon.com/u/privatephonebot)
-- **Сообщество**: [Telegram Virtual Numbers for Verification](https://t.me/VirtualNumbersForVerification)
+- **Сообщество**: [Telegram Virtual Numbers for Verification](https://t.me/SmsVerificationService)
 - **Поддержка**: [Telegram SMS Verification Service](https://t.me/SmsVerificationService)
 - **Новости**: [Следите за нами в Twitter](https://twitter.com/PrivatePhoneBot)
 - **Разработчики**: [GitHub Repository](https://github.com/VirtualPhoneNumber)
